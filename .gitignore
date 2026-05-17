@@ -4,3 +4,10 @@ __pycache__/
 .venv/
 venv/
 .python-version
+assets/fonts/*
+!assets/fonts/.gitkeep
+assets/music/*
+!assets/music/.gitkeep
+out/
+*.mp4
+*.caption.txt
